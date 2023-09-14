@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Selnox/static/css/main.cb09fde6.css",
-    "main.js": "/Selnox/static/js/main.63998d01.js",
+    "main.js": "/Selnox/static/js/main.26bac7be.js",
     "index.html": "/Selnox/index.html",
     "main.cb09fde6.css.map": "/Selnox/static/css/main.cb09fde6.css.map",
-    "main.63998d01.js.map": "/Selnox/static/js/main.63998d01.js.map"
+    "main.26bac7be.js.map": "/Selnox/static/js/main.26bac7be.js.map"
   },
   "entrypoints": [
     "static/css/main.cb09fde6.css",
-    "static/js/main.63998d01.js"
+    "static/js/main.26bac7be.js"
   ]
 }
