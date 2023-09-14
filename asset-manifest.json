@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Selnox/static/css/main.cb09fde6.css",
+    "main.js": "/Selnox/static/js/main.63998d01.js",
+    "index.html": "/Selnox/index.html",
+    "main.cb09fde6.css.map": "/Selnox/static/css/main.cb09fde6.css.map",
+    "main.63998d01.js.map": "/Selnox/static/js/main.63998d01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb09fde6.css",
+    "static/js/main.63998d01.js"
+  ]
+}
